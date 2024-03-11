@@ -1,0 +1,76 @@
+cmake_minimum_required(VERSION 3.27)
+project(CSE_2_Project)
+
+set(CMAKE_CXX_STANDARD 14)
+
+include_directories(.)
+include_directories(Debug)
+include_directories(Debug/BrowseInfo)
+include_directories(Debug/Exe)
+include_directories(Debug/List)
+include_directories(Debug/Obj)
+include_directories(settings)
+
+add_executable(CSE_2_Project
+        Debug/BrowseInfo/build.ninja
+        Debug/BrowseInfo/CSE_2_Project.pbd
+        Debug/BrowseInfo/CSE_2_Project.pbd.browse
+        Debug/BrowseInfo/CSE_2_Project.pbw
+        Debug/BrowseInfo/CSE_2_Project_part0.pbi
+        Debug/BrowseInfo/CSE_2_Project_part1.pbi
+        Debug/BrowseInfo/CSE_2_Project_part2.pbi
+        Debug/BrowseInfo/exceptions.pbi
+        Debug/BrowseInfo/exceptions.pbi.dep
+        Debug/BrowseInfo/exceptions.xcl
+        Debug/BrowseInfo/kernel_functions.pbi
+        Debug/BrowseInfo/kernel_functions.pbi.dep
+        Debug/BrowseInfo/kernel_functions.xcl
+        Debug/BrowseInfo/main.pbi
+        Debug/BrowseInfo/main.pbi.dep
+        Debug/BrowseInfo/main.xcl
+        Debug/BrowseInfo/startup_sam3x.pbi
+        Debug/BrowseInfo/startup_sam3x.pbi.dep
+        Debug/BrowseInfo/startup_sam3x.xcl
+        Debug/BrowseInfo/system_sam3x.pbi
+        Debug/BrowseInfo/system_sam3x.pbi.dep
+        Debug/BrowseInfo/system_sam3x.xcl
+        Debug/Exe/CSE_2_Project.out
+        Debug/Exe/CSE_2_Project.sim
+        Debug/List/CSE_2_Project.map
+        Debug/Obj/context_switching_functions_march_2019.o
+        Debug/Obj/cstartup.o
+        Debug/Obj/exceptions.o
+        Debug/Obj/kernel_functions.o
+        Debug/Obj/main.o
+        Debug/Obj/startup_sam3x.o
+        Debug/Obj/system_sam3x.o
+        settings/CSE_2_Project.crun
+        settings/CSE_2_Project.dbgdt
+        settings/CSE_2_Project.Debug.cspy.bat
+        settings/CSE_2_Project.Debug.cspy.ps1
+        settings/CSE_2_Project.Debug.driver.xcl
+        settings/CSE_2_Project.Debug.general.xcl
+        settings/CSE_2_Project.dnx
+        settings/CSE_2_Project.wsdt
+        settings/CSE_2_Project_Debug.jlink
+        arduino_due_x_sram.mac
+        at91sam3x8.h
+        context_switching_functions_march_2019.s
+        core_cm3.h
+        core_cmFunc.h
+        core_cmInstr.h
+        CSE_2_Project.dep
+        CSE_2_Project.ewd
+        CSE_2_Project.ewp
+        CSE_2_Project.ewt
+        CSE_2_Project.eww
+        cstartup.s
+        exceptions.c
+        exceptions.h
+        kernel_functions.c
+        kernel_functions.h
+        main.c
+        sam3x8-sram_BigHeap.icf
+        startup_sam3x.c
+        system_sam3x.c
+        system_sam3x.h)

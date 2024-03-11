@@ -1,0 +1,15 @@
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armPROC.dll" 
+
+"C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armJLINK.dll" 
+
+"C:\Users\Sulai\OneDrive\Desktop\CSE_2_Project\Debug\Exe\CSE_2_Project.out" 
+
+--plugin="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\bin\armbat.dll" 
+
+--device_macro="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\config\debugger\Microchip\SAM3XA.dmac" 
+
+--flash_loader="C:\Program Files\IAR Systems\Embedded Workbench 9.0\arm\config\flashloader\Microchip\sam3x8\sam3x8-flash.board" 
+
+
+
+

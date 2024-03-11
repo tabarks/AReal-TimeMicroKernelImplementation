@@ -1,0 +1,557 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "CSE_2_Project"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk -fcolor-diagnostics"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/Users/tabarksaleh/Downloads/H\u00f6gskolan/2 \u00e5r/Computer system engineering 2/v\u00e5r project/CSE_2_Project/."
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/Users/tabarksaleh/Downloads/H\u00f6gskolan/2 \u00e5r/Computer system engineering 2/v\u00e5r project/CSE_2_Project/Debug"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/Users/tabarksaleh/Downloads/H\u00f6gskolan/2 \u00e5r/Computer system engineering 2/v\u00e5r project/CSE_2_Project/Debug/BrowseInfo"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/Users/tabarksaleh/Downloads/H\u00f6gskolan/2 \u00e5r/Computer system engineering 2/v\u00e5r project/CSE_2_Project/Debug/Exe"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/tabarksaleh/Downloads/H\u00f6gskolan/2 \u00e5r/Computer system engineering 2/v\u00e5r project/CSE_2_Project/Debug/List"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/tabarksaleh/Downloads/H\u00f6gskolan/2 \u00e5r/Computer system engineering 2/v\u00e5r project/CSE_2_Project/Debug/Obj"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/Users/tabarksaleh/Downloads/H\u00f6gskolan/2 \u00e5r/Computer system engineering 2/v\u00e5r project/CSE_2_Project/settings"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				53,
+				55,
+				57,
+				59,
+				60
+			]
+		}
+	],
+	"id" : "CSE_2_Project::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "C"
+	},
+	"name" : "CSE_2_Project",
+	"nameOnDisk" : "CSE_2_Project",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				32,
+				33,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				43,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				58
+			]
+		},
+		{
+			"name" : "Object Files",
+			"sourceIndexes" : 
+			[
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				34,
+				53,
+				55,
+				57,
+				59,
+				60
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				42,
+				44,
+				45,
+				46,
+				54,
+				56,
+				61
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/build.ninja",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/CSE_2_Project.pbd",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/CSE_2_Project.pbd.browse",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/CSE_2_Project.pbw",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/CSE_2_Project_part0.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/CSE_2_Project_part1.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/CSE_2_Project_part2.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/exceptions.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/exceptions.pbi.dep",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/exceptions.xcl",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/kernel_functions.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/kernel_functions.pbi.dep",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/kernel_functions.xcl",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/main.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/main.pbi.dep",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/main.xcl",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/startup_sam3x.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/startup_sam3x.pbi.dep",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/startup_sam3x.xcl",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/system_sam3x.pbi",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/system_sam3x.pbi.dep",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/BrowseInfo/system_sam3x.xcl",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Exe/CSE_2_Project.out",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Exe/CSE_2_Project.sim",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/List/CSE_2_Project.map",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Obj/context_switching_functions_march_2019.o",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Obj/cstartup.o",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Obj/exceptions.o",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Obj/kernel_functions.o",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Obj/main.o",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Obj/startup_sam3x.o",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "Debug/Obj/system_sam3x.o",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.crun",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.dbgdt",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.Debug.cspy.bat",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.Debug.cspy.ps1",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.Debug.driver.xcl",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.Debug.general.xcl",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.dnx",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project.wsdt",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "settings/CSE_2_Project_Debug.jlink",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "arduino_due_x_sram.mac",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "at91sam3x8.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "context_switching_functions_march_2019.s",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "core_cm3.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "core_cmFunc.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "core_cmInstr.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CSE_2_Project.dep",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CSE_2_Project.ewd",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CSE_2_Project.ewp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CSE_2_Project.ewt",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "CSE_2_Project.eww",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "cstartup.s",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "exceptions.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "exceptions.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "kernel_functions.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "kernel_functions.h",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "main.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "sam3x8-sram_BigHeap.icf",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "startup_sam3x.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "system_sam3x.c",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : "system_sam3x.h",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "EXECUTABLE"
+}

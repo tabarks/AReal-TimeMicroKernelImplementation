@@ -1,0 +1,3 @@
+/Users/tabarksaleh/Downloads/Högskolan/2 år/Computer system engineering 2/vår project/CSE_2_Project/cmake-build-debug/CMakeFiles/CSE_2_Project.dir
+/Users/tabarksaleh/Downloads/Högskolan/2 år/Computer system engineering 2/vår project/CSE_2_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tabarksaleh/Downloads/Högskolan/2 år/Computer system engineering 2/vår project/CSE_2_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
